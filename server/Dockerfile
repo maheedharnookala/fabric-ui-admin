@@ -1,7 +1,7 @@
 
-FROM maxxx1313/fabric-rest:core
+FROM maheedharreddy/fabric-ui-admin:master
 
-LABEL com.altoros.version="0.10"
+LABEL version="1.1"
 
 # Create app directory
 WORKDIR /usr/src/app
